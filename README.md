@@ -45,4 +45,4 @@ FBSDKCoreKit.framework/FBSDKCoreKit (for architecture arm64):	Mach-O 64-bit dyna
 
 5. This indicates that above Framework is Dynamic.
 
-#### Note :- If you find any static precompiled framework then don't "embed % sign" it in "Framweworks,Libraries & Embedded Content" general tab or your project . 
+#### Note :- If you find any static precompiled framework then don't "embed & sign" it in "Framweworks,Libraries & Embedded Content" general tab or your project . 
